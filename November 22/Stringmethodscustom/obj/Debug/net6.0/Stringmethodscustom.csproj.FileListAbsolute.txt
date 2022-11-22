@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\bin\Debug\net6.0\Stringmethodscustom.exe
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\bin\Debug\net6.0\Stringmethodscustom.deps.json
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\bin\Debug\net6.0\Stringmethodscustom.runtimeconfig.json
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\bin\Debug\net6.0\Stringmethodscustom.dll
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\bin\Debug\net6.0\Stringmethodscustom.pdb
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.AssemblyInfo.cs
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.dll
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\refint\Stringmethodscustom.dll
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.pdb
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\Stringmethodscustom.genruntimeconfig.cache
+C:\Users\User\Desktop\BB201\22 September\Stringmethodscustom\obj\Debug\net6.0\ref\Stringmethodscustom.dll
