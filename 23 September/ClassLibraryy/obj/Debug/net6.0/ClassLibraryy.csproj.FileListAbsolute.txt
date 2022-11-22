@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\bin\Debug\net6.0\ClassLibraryy.exe
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\bin\Debug\net6.0\ClassLibraryy.deps.json
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\bin\Debug\net6.0\ClassLibraryy.runtimeconfig.json
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\bin\Debug\net6.0\ClassLibraryy.dll
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\bin\Debug\net6.0\ClassLibraryy.pdb
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.AssemblyInfo.cs
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.dll
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\refint\ClassLibraryy.dll
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.pdb
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ClassLibraryy.genruntimeconfig.cache
+C:\Users\User\Desktop\BB201\23 September\ClassLibraryy\obj\Debug\net6.0\ref\ClassLibraryy.dll
