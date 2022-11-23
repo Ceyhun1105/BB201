@@ -1,0 +1,15 @@
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\bin\Debug\net6.0\WeaponeClass.exe
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\bin\Debug\net6.0\WeaponeClass.deps.json
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\bin\Debug\net6.0\WeaponeClass.runtimeconfig.json
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\bin\Debug\net6.0\WeaponeClass.dll
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\bin\Debug\net6.0\WeaponeClass.pdb
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.dll
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\refint\WeaponeClass.dll
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.pdb
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\WeaponeClass.genruntimeconfig.cache
+C:\Users\Ceyhun\Desktop\BB201\23 November\WeaponeClass\obj\Debug\net6.0\ref\WeaponeClass.dll
