@@ -1,0 +1,15 @@
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\bin\Debug\net6.0\Extentions.exe
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\bin\Debug\net6.0\Extentions.deps.json
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\bin\Debug\net6.0\Extentions.runtimeconfig.json
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\bin\Debug\net6.0\Extentions.dll
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\bin\Debug\net6.0\Extentions.pdb
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.dll
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\refint\Extentions.dll
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.pdb
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\Extentions.genruntimeconfig.cache
+C:\Users\Ceyhun\Desktop\BB201\29 November\Extentions\obj\Debug\net6.0\ref\Extentions.dll
