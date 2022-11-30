@@ -1,0 +1,15 @@
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\bin\Debug\net6.0\MakeException.exe
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\bin\Debug\net6.0\MakeException.deps.json
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\bin\Debug\net6.0\MakeException.runtimeconfig.json
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\bin\Debug\net6.0\MakeException.dll
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\bin\Debug\net6.0\MakeException.pdb
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.dll
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\refint\MakeException.dll
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.pdb
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\MakeException.genruntimeconfig.cache
+C:\Users\Ceyhun\Desktop\BB201\1 December\MakeException\obj\Debug\net6.0\ref\MakeException.dll
