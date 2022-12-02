@@ -1,0 +1,15 @@
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.csproj.AssemblyReference.cache
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.AssemblyInfoInputs.cache
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.AssemblyInfo.cs
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\bin\Debug\net6.0\ListTask.exe
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\bin\Debug\net6.0\ListTask.deps.json
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\bin\Debug\net6.0\ListTask.runtimeconfig.json
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\bin\Debug\net6.0\ListTask.dll
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\bin\Debug\net6.0\ListTask.pdb
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.dll
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\refint\ListTask.dll
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.pdb
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ListTask.genruntimeconfig.cache
+C:\Users\ceyhu\OneDrive\İş masası\ListTask\obj\Debug\net6.0\ref\ListTask.dll
