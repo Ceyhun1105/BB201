@@ -1,0 +1,15 @@
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\bin\Debug\net6.0\FileStreamLesson.exe
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\bin\Debug\net6.0\FileStreamLesson.deps.json
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\bin\Debug\net6.0\FileStreamLesson.runtimeconfig.json
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\bin\Debug\net6.0\FileStreamLesson.dll
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\bin\Debug\net6.0\FileStreamLesson.pdb
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.dll
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\refint\FileStreamLesson.dll
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.pdb
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\FileStreamLesson.genruntimeconfig.cache
+C:\Users\Ceyhun\Desktop\BB201\5 December\FileStream\obj\Debug\net6.0\ref\FileStreamLesson.dll
