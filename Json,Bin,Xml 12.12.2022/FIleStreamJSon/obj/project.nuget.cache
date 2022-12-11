@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "83jn7Q3hUBOC9ShEvghVrEmVomwNPvsAd4z6LOHf//0/TrFoccxyRo/8XNCjzkHGqdfGxB65CcmWCgtrFcq5sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ceyhun\\Desktop\\BB201\\12 December\\FIleStreamJSon\\FIleStreamJSon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ceyhun\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Ceyhun\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
