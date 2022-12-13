@@ -1,0 +1,15 @@
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\bin\Debug\net6.0\ExamCode.exe
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\bin\Debug\net6.0\ExamCode.deps.json
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\bin\Debug\net6.0\ExamCode.runtimeconfig.json
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\bin\Debug\net6.0\ExamCode.dll
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\bin\Debug\net6.0\ExamCode.pdb
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.csproj.AssemblyReference.cache
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.AssemblyInfoInputs.cache
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.AssemblyInfo.cs
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.csproj.CoreCompileInputs.cache
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.dll
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\refint\ExamCode.dll
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.pdb
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ExamCode.genruntimeconfig.cache
+C:\Users\ceyhu\OneDrive\İş masası\ExamCode\obj\Debug\net6.0\ref\ExamCode.dll
